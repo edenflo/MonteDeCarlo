@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.sh
 
 # Build results
 [Dd]ebug/
